@@ -1,6 +1,6 @@
 # demo-terminal
 
->  web模拟终端
+>  web模拟终端 [预览](https://chenc11211.github.io/Terminal/dist/)
 
 ## Build Setup
 
